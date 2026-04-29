@@ -1,0 +1,19 @@
+{
+    "blogs": [
+        {
+        "title": "The conversion corner",
+        "author": "Harmony Onyedikachi",
+        "blog": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum fugiat rem sint minima, accusantium perferendis laboriosam voluptate aspernatur earum nemo nobis obcaecati, sapiente architecto quibusdam ex, odio at molestiae consequatur natus atque velit? Earum sequi perferendis sed dicta voluptates, ex, officia soluta tempore et accusantium, atque nisi laboriosam! A, commodi.",
+        "id": 1},
+        {
+        "title": "The Inner Archive",
+        "author": "Jahwenma Boms",
+        "blog": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum fugiat rem sint minima, accusantium perferendis laboriosam voluptate aspernatur earum nemo nobis obcaecati, sapiente architecto quibusdam ex, odio at molestiae consequatur natus atque velit? Earum sequi perferendis sed dicta voluptates, ex, officia soluta tempore et accusantium, atque nisi laboriosam! A, commodi.",
+        "id": 2},
+        {
+        "title": "Ink Theory",
+        "author": "Fred Amunule",
+        "blog": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum fugiat rem sint minima, accusantium perferendis laboriosam voluptate aspernatur earum nemo nobis obcaecati, sapiente architecto quibusdam ex, odio at molestiae consequatur natus atque velit? Earum sequi perferendis sed dicta voluptates, ex, officia soluta tempore et accusantium, atque nisi laboriosam! A, commodi.",
+        "id": 3}
+    ]
+}
